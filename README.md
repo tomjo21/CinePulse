@@ -30,13 +30,13 @@ Dataset is located in: [here](tmdb_5000_movies.csv)
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshot/home.png)
+![Homepage](Screenshot 2025-07-19 221122.png)
 
-### Prediction-Graph 
-![Prediction-Graph](screenshot/graph.png)
 
-### Result - Chart
-![Prediction chart](screenshot/chart.png)
+![User Input](Screenshot 2025-07-19 221228.png)
+
+### Result
+![Prediction](Screenshot 2025-07-19 221319.png)
 
 ## Model Training
 
