@@ -18,21 +18,13 @@ Dataset is located in: [here](tmdb_5000_movies.csv)
 - Python (Flask)
 - React + Vite
 - Tailwind CSS
-- Facebook Prophet, pandas, joblib
+- Pandas, joblib
 - Hosted on: Render (backend) & Vercel (frontend)
 
-## 🔗 Backend Repository
-👉 [Visit Backend Repository](backend)
-
-## 🔗 Frontend Repository
-👉 [Visit Frontend Repository](frontend)
 
 ## 🌐 Live Website
-👉 [Visit](https://aqi-prediction-future-three.vercel.app/)
+👉 [Visit](https://movie-predictor-sj91.vercel.app/)
 
-## Note
-
-The first request will be slow as waking up Render backend initially takes a few seconds.
 
 
 ## 📸 Screenshots
@@ -59,7 +51,7 @@ The machine learning model for this project was trained and evaluated in a Googl
 
 ## Created By
 
-
+Afthab,Athira,Farsana,Tom
 
 
 
