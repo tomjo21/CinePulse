@@ -23,7 +23,7 @@ Dataset is located in: [here](tmdb_5000_movies.csv)
 
 
 ## 🌐 Live Website
-👉 [Visit](https://movie-predictor-sj91.vercel.app/)
+👉 [Visit](https://moviesuccesspredictionsystem-8dzxb78do.vercel.app/)
 
 
 
