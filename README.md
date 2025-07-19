@@ -1,6 +1,6 @@
 
 
-# ☁️ Movie Prediction
+# ☁ Movie Prediction
 
 ## 📄 Abstract
 
