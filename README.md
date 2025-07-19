@@ -12,7 +12,7 @@ The dataset underwent thorough preprocessing, including feature extraction, enco
 Model performance was assessed through accuracy, precision, and recall, and the results revealed a meaningful alignment between predicted and actual movie success labels. This system illustrates the potential of data-driven approaches in guiding investment decisions and promotional strategies within the entertainment industry.
 
 ## 📁 Dataset
-Dataset is located in: [here](content/data.csv)
+Dataset is located in: [here](main/tmdb_5000_movies.csv)
 
 ## 🔧 Tech Stack
 - Python (Flask)
