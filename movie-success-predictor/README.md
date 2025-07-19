@@ -12,7 +12,7 @@ A full-stack web application that predicts whether a movie will be a HIT or FLOP
 
 ## 🚀 Live Demo
 
-[Add your deployed URL here]
+https://movie-predictor-sj91.vercel.app/
 
 ## 🛠️ Tech Stack
 
