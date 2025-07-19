@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: movie-success-predictor
+    env: python
+    buildCommand: |
+      pip install -r backend/requirements.txt
+      cd src
+      npm install
+      npm run build
+    startCommand: python backend/app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10 
